@@ -10,10 +10,11 @@ I was the solo programmer and a supporting artist of the team and this was my fi
 
 ### Credits
 
-Concept | Isabel S
-Story & Writing | Laura M, Isabel S
-Visuals | Neo A, Hilla K (me), Emilia R
-Audio | Leo K, Laura M
-Programming | Hilla K (me)
+- Concept | Isabel S
+- Story & Writing | Laura M, Isabel S
+- Visuals | Neo A, Hilla K (me), Emilia R
+- Audio | Leo K, Laura M
+- Programming | Hilla K (me)
+
 
 ![wakeupscreenshot3](https://user-images.githubusercontent.com/47727027/124523022-e9912500-ddfd-11eb-8e6e-867b9102f1b0.jpg)
